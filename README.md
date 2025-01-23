@@ -14,15 +14,15 @@ They are competent in beginner-level Python, Linux, SQL, Security Information an
 
 This course covered topics such as:
 
-<p>Understanding how to secure a network against intrusion tactics.</p>
-<p>Describe system hardening techniques.</p>
+<p>Understanding how to secure a network against intrusion tactics.
+Describe system hardening techniques.
   Hands-on, practice-based assessments included:  ✔️
   <li>Analyze Network Attacks</li>
   <li>Analysis of Network Hardening</li>
   <li>Analyze Network Layer Communications</li>
   <li>Apply OS Hardening Techniques</li>
   <li>NIST Incident Report Analysis</li>
-  <br>
+  <br></p>
 
 Tools of the Trade: Linux and SQL.
 Explain the relationship between operating systems, applications, and hardware.
