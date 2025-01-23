@@ -14,6 +14,39 @@ They are competent in beginner-level Python, Linux, SQL, Security Information an
 
 This course covered topics such as:
 <p>
+**Foundations of Cybersecurity**
+<br>Recognize core skills and knowledge needed to become a cybersecurity analyst
+<br>Identify how security attacks impact business operations
+<br>Explain security ethics
+<br>Identify common tools used by cybersecurity analysts
+
+
+Play It Safe: Manage Security Risks<br>
+Identify the primary threats, risks, and vulnerabilities to business operations.<br>
+Examine how organizations use security frameworks and controls to protect business operations.<br>
+Define commonly used Security Information and Event Management (SIEM) tools.<br>
+Use a playbook to respond to threats, risks, and vulnerabilities.<br> 
+Hands-on, practice-based assessments included:
+  <li>Botium Toys Audit✔️  </li>
+  <li>Compliance Checklist✔️  </li>
+  <li>Controls Assesment Checklist/Priority✔️  </li>
+  <li>Stakeholders Memorandum✔️  </li>
+ <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 Understanding how to secure a network against intrusion attatcks.
 Describe system hardening techniques. </p>
   <p>
