@@ -4,11 +4,11 @@ Certificate:
 
 <img src="https://github.com/rennier/Google-Cyber-Security-Portfolio/blob/80d8d1b7f215f7af41323f0ce2ba15dc2b72fef0/Google%20Cybersecurity%20Certificate-Rennie%20Ramlochan.png" alt="View certificate for Rennie Ramlochan, Google Cybersecurity, offered through Coursera. Those who earn the Google Cybersecurity Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in cybersecurity. They are competent in beginner-level Python, Linux, SQL, Security Information and Event Management (SIEM) tools, and Intrusion Detection Systems (IDS). They know how to Identifying common cybersecurity risks, threats, and vulnerabilities, as well as the techniques to mitigate."/>
 
-Certificate for Rennie Ramlochan, Google Cybersecurity, offered through Coursera. 
+**Certificate for Rennie Ramlochan, Google Cybersecurity, offered through Coursera.** 
 
-Those who earn the Google Cybersecurity Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in cybersecurity. 
+Those who earn the Google Cybersecurity Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for  roles in cybersecurity. 
 
-They are competent in beginner-level Python, Linux, SQL, Security Information and Event Management (SIEM) tools, and Intrusion Detection Systems (IDS). They know how to Identifying common cybersecurity risks, threats, and vulnerabilities, as well as the techniques to mitigate.
+They are competent in Python, Linux, SQL, Security Information and Event Management (SIEM) tools, and Intrusion Detection Systems (IDS). They know how to Identifying common cybersecurity risks, threats, and vulnerabilities, as well as the techniques to mitigate.
 
 ***The focus of this Portfolio was to gather, improve and complete activies related to Cyber Security and presented in Google's Professional Cyber Security Specialization offered through Coursera.*** 
 
@@ -84,3 +84,17 @@ Practicing debugging code<br>
 **<em>Hands-on, practice-based assessments included:</em>** 
   <li>Update Files through a Python Algorithm✔️</li>
   <br>
+
+This course taught me new technical skills in:
+<br>
+<li>Risk management</li>
+<li>Threat analysis</li>
+<li>Network security</li>
+<li>Incident response</li>
+<li>Network protocol analyzers (Wireshark and tcpdump)</li>
+<li>SIEM Tools (Chronicle and Splunk)</li>
+<li>IDS/IPS Tools</li>
+<li>Firewalls</li>
+<br>
+
+  
