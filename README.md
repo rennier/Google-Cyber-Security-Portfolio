@@ -98,4 +98,20 @@ Practicing debugging code<br>
 <li>Firewalls</li>
 <br>
 
-  
+
+<h1></h1>
+  Directory Structure<br>
+The repository follows a directory structure that separates portfolio activities by chapters:
+
+Chapter 01
+Portfolio Activities: This section includes my solutions and documentation for portfolio assignments in Chapter 01.<br><br>
+Chapter 02<br>
+Portfolio Activities: Solutions and documentation for portfolio assignments in Chapter 02.
+(and so on for each chapter in the course.)
+<br><br>
+Getting Started
+To consult this repository for reference:
+<br>
+Navigate to the relevant chapter directory for the course material you are interested in.
+Inside each chapter directory, you will find a section labeled "Portfolio Activities."
+You may consult the solutions and documentation provided for each portfolio activity. Please note that the solutions are for reference purposes, and there is no guarantee that they are the best or only solutions.
