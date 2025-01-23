@@ -13,16 +13,16 @@ They are competent in beginner-level Python, Linux, SQL, Security Information an
 ***The focus of this Portfolio was to gather, improve and complete activies related to Cyber Security and presented in Google's Professional Cyber Security Specialization offered through Coursera.*** 
 
 This course covered topics such as:
-
-<pre>Understanding how to secure a network against intrusion tactics.
+<pre>
+Understanding how to secure a network against intrusion attatcks.
 Describe system hardening techniques.</pre>
- <p> Hands-on, practice-based assessments included:  ✔️</p>
+  Hands-on, Practice-Based Assessments included:  ✔️
   <li>Analyze Network Attacks</li>
   <li>Analysis of Network Hardening</li>
   <li>Analyze Network Layer Communications</li>
   <li>Apply OS Hardening Techniques</li>
   <li>NIST Incident Report Analysis</li>
-  <br></p>
+  <br></pre>
 
 Tools of the Trade: Linux and SQL.
 Explain the relationship between operating systems, applications, and hardware.
