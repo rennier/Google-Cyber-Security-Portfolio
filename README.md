@@ -6,7 +6,7 @@ Certificate:
 
 **Certificate for Rennie Ramlochan, Google Cybersecurity, offered through Coursera.** 
 
-Those who earn the Google Cybersecurity Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for  roles in cybersecurity. 
+Those who earn the Google Cybersecurity Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for roles in cybersecurity like cybersecurity analyst, security operations center (SOC) analyst, and more. 
 
 They are competent in Python, Linux, SQL, Security Information and Event Management (SIEM) tools, and Intrusion Detection Systems (IDS). They know how to Identifying common cybersecurity risks, threats, and vulnerabilities, as well as the techniques to mitigate.
 
