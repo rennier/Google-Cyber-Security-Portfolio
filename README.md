@@ -98,11 +98,9 @@ Practicing debugging code<br>
 <li>Firewalls</li>
 <br>
 
-
+**Directory Structure<br>**
 <h1></h1>
-  Directory Structure<br>
 The repository follows a directory structure that separates portfolio activities by chapters:
-
 Chapter 01
 Portfolio Activities: This section includes my solutions and documentation for portfolio assignments in Chapter 01.<br><br>
 Chapter 02<br>
