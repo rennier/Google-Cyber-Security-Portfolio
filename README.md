@@ -85,7 +85,7 @@ Practicing debugging code<br>
   <li>Update Files through a Python Algorithm✔️</li>
   <br>
 
-This course taught me new technical skills in:
+**This course taught me new technical skills in:**
 <br>
 <li>Risk management</li>
 <li>Threat analysis</li>
