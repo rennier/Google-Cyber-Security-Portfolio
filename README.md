@@ -16,7 +16,7 @@ This course covered topics such as:<br><br>
 **1.Foundations of Cybersecurity**
 <br>Recognizing core skills and knowledge needed to become a cybersecurity analyst
 <br>Identifing how security attacks impact business operations
-<br>Explaining security ethics
+<br>Explaininging security ethics
 <br>Identifing common tools used by cybersecurity analysts
 
 
@@ -35,7 +35,7 @@ Using a playbook to respond to threats, risks, and vulnerabilities.<br>
 **3.Connect and Protect: Networks and Network Security<br>**
 Defining the types of networks and components of networks.<br>
 Illustrating how data is sent and received over a network.<br>
-Understanding how to secure a network against intrusion tactics.<br>
+Understandinging how to secure a network against intrusion tactics.<br>
 Describing system hardening techniques.<br>
 **<em>Hands-on, practice-based assessments included:</em>**  
   <li>Analyzing Network Attacks✔️</li>
@@ -46,7 +46,7 @@ Describing system hardening techniques.<br>
   <br>
 
 **4.Tools of the Trade: Linux and SQL.<br>**
-Explaining the relationship between operating systems, applications, and hardware.<br>
+Explaininging the relationship between operating systems, applications, and hardware.<br>
 Compareing a graphical user interface to a command line interface.<br>
 Navigating and manage the file system using Linux commands via the Bash shell.<br>
 Use SQL to retrieve information from a database.<br>
@@ -60,7 +60,7 @@ Use SQL to retrieve information from a database.<br>
 Classifying assets<br>
 Analyzing an attack surface to find risks and vulnerabilities<br>
 Identifying threats, such as social engineering, malware and web-based exploits<br>
-Summarize the threat modeling process<br>
+Summarizing the threat modeling process<br>
 **<em>Hands-on, practice-based assessments included:</em>**
   <li>Analyzing a Vulnerable System for a Small Business✔️</li>
   <br>
@@ -68,19 +68,19 @@ Summarize the threat modeling process<br>
 **6.Sound the Alarm: Detection and Response<br>**
 Identifying the steps to contain, eradicate, and recover from an incident<br>
 Analyzing packets to interpret network communications<br>
-Understand basic syntax, components of signatures and logs in Intrusion Detection Systems (IDS) and Network Intrusion Detection Systems (NIDS) tools<br>
-Perform queries in Security Information and Event Management (SIEM) tools to investigate an event<br>
+Understanding basic syntax, components of signatures and logs in Intrusion Detection Systems (IDS) and Network Intrusion Detection Systems (NIDS) tools<br>
+Performingqueries in Security Information and Event Management (SIEM) tools to investigate an event<br>
 **<em>Hands-on, practice-based assessments included:</em>**
-  <li>Document Incident Handler's Journal (with template)✔️</li>
-  <li>Finalize Incident Handler's Journal✔️</li>
+  <li>Documenting Incident Handler's Journal (with template)✔️</li>
+  <li>Finalizing Incident Handler's Journal✔️</li>
   <br>
 
 
 **7.Automate Cybersecurity Tasks with Python<br>**
-Explain how the Python programming language is used in cybersecurity<br>
-Create new, user-defined Python functions<br>
-Use regular expressions to extract information from text<br>
-Practice debugging code<br>
+Explaining how the Python programming language is used in cybersecurity<br>
+Creating new, user-defined Python functions<br>
+Using regular expressions to extract information from text<br>
+Practicing debugging code<br>
 **<em>Hands-on, practice-based assessments included:</em>** 
   <li>Update Files through a Python Algorithm✔️</li>
   <br>
