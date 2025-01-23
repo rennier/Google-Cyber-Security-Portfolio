@@ -1,5 +1,6 @@
 # Google-Cyber-Security-Portfolio
  Certificate:
+ https://github.com/rennier/Google-Cyber-Security-Portfolio/blob/80d8d1b7f215f7af41323f0ce2ba15dc2b72fef0/Google%20Cybersecurity%20Certificate-Rennie%20Ramlochan.png
 <img src="https://www.dropbox.com/scl/fi/6dq4s2uptiebavo7usqvm/Google-Cybersecurity-Certificate-Rennie-Ramlochan.png?rlkey=7mfxrj84xi10vb4v2q31zf1z5&dl=0" alt="View certificate for Rennie Ramlochan, Google Cybersecurity, offered through Coursera. Those who earn the Google Cybersecurity Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in cybersecurity. They are competent in beginner-level Python, Linux, SQL, Security Information and Event Management (SIEM) tools, and Intrusion Detection Systems (IDS). They know how to identify common cybersecurity risks, threats, and vulnerabilities, as well as the techniques to mitigate."/>
 
 Certificate for Rennie Ramlochan, Google Cybersecurity, offered through Coursera. 
