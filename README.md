@@ -13,55 +13,54 @@ They are competent in beginner-level Python, Linux, SQL, Security Information an
 ***The focus of this Portfolio was to gather, improve and complete activies related to Cyber Security and presented in Google's Professional Cyber Security Specialization offered through Coursera.*** 
 
 This course covered topics such as:
-<li>Risk management</li>
-<li>Threat analysis</li>
-<li>Network security</li>
-<li>Incident response</li>
-<br>
 
-It taught me new technical skills in:
-<br>
-<li>Network protocol analyzers (Wireshark and tcpdump)</li>
-<li>SIEM Tools (Chronicle and Splunk)</li>
-<li>IDS/IPS Tools</li>
-<li>Firewalls</li>
-<br>
-
-And I was able to brush up on a lot of fundamental information and develop even further in the following skills:
-<li>Python</li>
-<li>SQL</li>
-<li>Linux</li>
-<h2>Contents:</h2>
-<br>
-
-Play It Safe: Manage Security Risks - ✔️
-  <li>Botium Toys Audit</li>
-  <li>Compliance Checklist</li>
-  <li>Controls Assesment Checklist/Priority</li>
-  <li>Stakeholders Memorandum</li>
-  
-<br>
-Connect and Protect: Networks and Network Security - ✔️
+1.Understand how to secure a network against intrusion tactics.
+  Describe system hardening techniques.
+  Hands-on, practice-based assessments included:  ✔️
   <li>Analyze Network Attacks</li>
   <li>Analysis of Network Hardening</li>
   <li>Analyze Network Layer Communications</li>
   <li>Apply OS Hardening Techniques</li>
   <li>NIST Incident Report Analysis</li>
-  
-<br>
-Tools of the Trade: Linux & SQL - ✔️
-  <li>Manage File Permissions Linux</li>
-  <li>Apply Filters to SQL Queries</li>
-  
-<br>
-Assets, Threats, and Vulnerabilities - ✔️
+  <br>
+
+Tools of the Trade: Linux and SQL.
+Explain the relationship between operating systems, applications, and hardware.
+Compare a graphical user interface to a command line interface.
+Navigate and manage the file system using Linux commands via the Bash shell.
+Use SQL to retrieve information from a database.
+✔️Hands-on, practice-based assessments included:  
+ <li>Manage File Permissions Linux</li>
+ <li>Apply Filters to SQL Queries</li>
+ <br>
+
+
+Assets, Threats, and Vulnerabilities
+Classify assets
+Analyze an attack surface to find risks and vulnerabilities
+Identify threats, such as social engineering, malware and web-based exploits
+Summarize the threat modeling process
+✔️Hands-on, practice-based assessments included:  
   <li>Analyze a Vulnerable System for a Small Business</li>
+  <br>
 
-<br>
-Sound the Alarm: Detection and Response - ✔️
-<li>Document Incident Handler's Journal (with template)</li>
-<li>Finalize Incident Handler's Journal</li>
+Sound the Alarm: Detection and Response
+Identify the steps to contain, eradicate, and recover from an incident
+Analyze packets to interpret network communications
+Understand basic syntax, components of signatures and logs in Intrusion Detection Systems (IDS) and Network Intrusion Detection Systems (NIDS) tools
+Perform queries in Security Information and Event Management (SIEM) tools to investigate an event
+✔️Hands-on, practice-based assessments included:  
+  <li>Document Incident Handler's Journal (with template)</li>
+  <li>Finalize Incident Handler's Journal</li>
+  <br>
 
-<br>
-Automate Cybersecurity Tasks with Python - ✔️
-<li>Update Files through a Python Algorithm</li>
+
+Automate Cybersecurity Tasks with Python
+Explain how the Python programming language is used in cybersecurity
+Create new, user-defined Python functions
+Use regular expressions to extract information from text
+Practice debugging code
+✔️Hands-on, practice-based assessments included:  
+  <li>Update Files through a Python Algorithm</li>
+  <br>
+
