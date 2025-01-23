@@ -12,89 +12,75 @@ They are competent in beginner-level Python, Linux, SQL, Security Information an
 
 ***The focus of this Portfolio was to gather, improve and complete activies related to Cyber Security and presented in Google's Professional Cyber Security Specialization offered through Coursera.*** 
 
-This course covered topics such as:
-<p>
-**Foundations of Cybersecurity**
+This course covered topics such as:<br><br>
+**1.Foundations of Cybersecurity**
 <br>Recognize core skills and knowledge needed to become a cybersecurity analyst
 <br>Identify how security attacks impact business operations
 <br>Explain security ethics
 <br>Identify common tools used by cybersecurity analysts
 
 
-Play It Safe: Manage Security Risks<br>
+**2.Play It Safe: Manage Security Risks<br>**
 Identify the primary threats, risks, and vulnerabilities to business operations.<br>
 Examine how organizations use security frameworks and controls to protect business operations.<br>
 Define commonly used Security Information and Event Management (SIEM) tools.<br>
 Use a playbook to respond to threats, risks, and vulnerabilities.<br> 
-Hands-on, practice-based assessments included:
+**<em>Hands-on, practice-based assessments included:</em>**
   <li>Botium Toys Audit✔️  </li>
   <li>Compliance Checklist✔️  </li>
   <li>Controls Assesment Checklist/Priority✔️  </li>
   <li>Stakeholders Memorandum✔️  </li>
  <br>
 
+**3.Connect and Protect: Networks and Network Security<br>**
+Define the types of networks and components of networks.<br>
+Illustrate how data is sent and received over a network.<br>
+Understand how to secure a network against intrusion tactics.<br>
+Describe system hardening techniques.<br>
+**<em>Hands-on, practice-based assessments included:</em>**  
+  <li>Analyze Network Attacks✔️</li>
+  <li>Analysis of Network Hardening✔️</li>
+  <li>Analyze Network Layer Communications✔️</li>
+  <li>Apply OS Hardening Technique✔️s</li>
+  <li>NIST Incident Report Analysis✔️</li>
+  <br>
 
-
-
-
-
-
-
-
-
-
-
-
-
- 
-Understanding how to secure a network against intrusion attatcks.
-Describe system hardening techniques. </p>
-  <p>
-  Hands-on, Practice-Based Assessments included:  ✔️
-  <li>Analyze Network Attacks</li>
-  <li>Analysis of Network Hardening</li>
-  <li>Analyze Network Layer Communications</li>
-  <li>Apply OS Hardening Techniques</li>
-  <li>NIST Incident Report Analysis</li>
-  <br></p>
-
-Tools of the Trade: Linux and SQL.
-Explain the relationship between operating systems, applications, and hardware.
-Compare a graphical user interface to a command line interface.
-Navigate and manage the file system using Linux commands via the Bash shell.
-Use SQL to retrieve information from a database.
-✔️Hands-on, practice-based assessments included:  
- <li>Manage File Permissions Linux</li>
- <li>Apply Filters to SQL Queries</li>
+**4.Tools of the Trade: Linux and SQL.<br>**
+Explain the relationship between operating systems, applications, and hardware.<br>
+Compare a graphical user interface to a command line interface.<br>
+Navigate and manage the file system using Linux commands via the Bash shell.<br>
+Use SQL to retrieve information from a database.<br>
+**<em>Hands-on, practice-based assessments included:</em>** 
+ <li>Manage File Permissions Linux✔️</li>
+ <li>Apply Filters to SQL Queries✔️</li>
  <br>
 
 
-Assets, Threats, and Vulnerabilities
-Classify assets
-Analyze an attack surface to find risks and vulnerabilities
-Identify threats, such as social engineering, malware and web-based exploits
-Summarize the threat modeling process
-✔️Hands-on, practice-based assessments included:  
-  <li>Analyze a Vulnerable System for a Small Business</li>
+**5.Assets, Threats, and Vulnerabilities<br>**
+Classify assets<br>
+Analyze an attack surface to find risks and vulnerabilities<br>
+Identify threats, such as social engineering, malware and web-based exploits<br>
+Summarize the threat modeling process<br>
+**<em>Hands-on, practice-based assessments included:</em>**
+  <li>Analyze a Vulnerable System for a Small Business✔️</li>
   <br>
 
-Sound the Alarm: Detection and Response
-Identify the steps to contain, eradicate, and recover from an incident
-Analyze packets to interpret network communications
-Understand basic syntax, components of signatures and logs in Intrusion Detection Systems (IDS) and Network Intrusion Detection Systems (NIDS) tools
-Perform queries in Security Information and Event Management (SIEM) tools to investigate an event
-✔️Hands-on, practice-based assessments included:  
-  <li>Document Incident Handler's Journal (with template)</li>
-  <li>Finalize Incident Handler's Journal</li>
+**6.Sound the Alarm: Detection and Response<br>**
+Identify the steps to contain, eradicate, and recover from an incident<br>
+Analyze packets to interpret network communications<br>
+Understand basic syntax, components of signatures and logs in Intrusion Detection Systems (IDS) and Network Intrusion Detection Systems (NIDS) tools<br>
+Perform queries in Security Information and Event Management (SIEM) tools to investigate an event<br>
+**<em>Hands-on, practice-based assessments included:</em>**
+  <li>Document Incident Handler's Journal (with template)✔️</li>
+  <li>Finalize Incident Handler's Journal✔️</li>
   <br>
 
 
-Automate Cybersecurity Tasks with Python
-Explain how the Python programming language is used in cybersecurity
-Create new, user-defined Python functions
-Use regular expressions to extract information from text
-Practice debugging code
-✔️Hands-on, practice-based assessments included:  
-  <li>Update Files through a Python Algorithm</li>
+**7.Automate Cybersecurity Tasks with Python<br>**
+Explain how the Python programming language is used in cybersecurity<br>
+Create new, user-defined Python functions<br>
+Use regular expressions to extract information from text<br>
+Practice debugging code<br>
+**<em>Hands-on, practice-based assessments included:</em>** 
+  <li>Update Files through a Python Algorithm✔️</li>
   <br>
-
