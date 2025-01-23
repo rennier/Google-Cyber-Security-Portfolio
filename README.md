@@ -14,8 +14,8 @@ They are competent in beginner-level Python, Linux, SQL, Security Information an
 
 This course covered topics such as:
 
-<p>Understanding how to secure a network against intrusion tactics.
-Describe system hardening techniques.</p>
+<pre>Understanding how to secure a network against intrusion tactics.
+Describe system hardening techniques.</pre>
  <p> Hands-on, practice-based assessments included:  ✔️</p>
   <li>Analyze Network Attacks</li>
   <li>Analysis of Network Hardening</li>
