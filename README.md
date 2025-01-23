@@ -11,33 +11,25 @@ They are competent in beginner-level Python, Linux, SQL, Security Information an
 ***The focus of this Portfolio was to gather, improve and complete activies related to Cyber Security and presented in Google's Professional Cyber Security Specialization offered through Coursera.*** 
 
 This course covered topics such as:
-
 <li>Risk management</li>
 <li>Threat analysis</li>
 <li>Network security</li>
 <li>Incident response</li>
-
 <br>
 
 It taught me new technical skills in:
-
 <br>
-
 <li>Network protocol analyzers (Wireshark and tcpdump)</li>
 <li>SIEM Tools (Chronicle and Splunk)</li>
 <li>IDS/IPS Tools</li>
 <li>Firewalls</li>
-
 <br>
 
 And I was able to brush up on a lot of fundamental information and develop even further in the following skills:
-
 <li>Python</li>
 <li>SQL</li>
 <li>Linux</li>
-
 <h2>Contents:</h2>
-
 <br>
 
 Play It Safe: Manage Security Risks - ✔️
