@@ -39,7 +39,6 @@ Play It Safe: Manage Security Risks - ✔️
   <li>Stakeholders Memorandum</li>
   
 <br>
-
 Connect and Protect: Networks and Network Security - ✔️
   <li>Analyze Network Attacks</li>
   <li>Analysis of Network Hardening</li>
@@ -48,23 +47,19 @@ Connect and Protect: Networks and Network Security - ✔️
   <li>NIST Incident Report Analysis</li>
   
 <br>
-
 Tools of the Trade: Linux & SQL - ✔️
   <li>Manage File Permissions Linux</li>
   <li>Apply Filters to SQL Queries</li>
   
 <br>
-
 Assets, Threats, and Vulnerabilities - ✔️
   <li>Analyze a Vulnerable System for a Small Business</li>
 
 <br>
-
 Sound the Alarm: Detection and Response - ✔️
 <li>Document Incident Handler's Journal (with template)</li>
 <li>Finalize Incident Handler's Journal</li>
 
 <br>
-
 Automate Cybersecurity Tasks with Python - ✔️
 <li>Update Files through a Python Algorithm</li>
