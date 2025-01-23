@@ -11,8 +11,9 @@ Those who earn the Google Cybersecurity Certificate have completed eight courses
 They are competent in Python, Linux, SQL, Security Information and Event Management (SIEM) tools, and Intrusion Detection Systems (IDS). They know how to Identifying common cybersecurity risks, threats, and vulnerabilities, as well as the techniques to mitigate.
 
 ***The focus of this Portfolio was to gather, improve and complete activies related to Cyber Security and presented in Google's Professional Cyber Security Specialization offered through Coursera.*** 
+<h1></h1>
+<em>This course covered topics such as:</em><br><br>
 
-This course covered topics such as:<br><br>
 **1.Foundations of Cybersecurity**
 <br>Recognizing core skills and knowledge needed to become a cybersecurity analyst
 <br>Identifing how security attacks impact business operations
